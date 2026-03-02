@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スライドショー",
+  "base_artist": "Room97",
+  "createdAt": "2026-03-02T19:07:33.878159Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スライドショー (feat. EVO+)",
+      "artist": "Room97",
+      "has_synced": false,
+      "path": "select/pl_01_スライドショー_(feat._EVO+)_Room97.txt"
+    }
+  ]
+}
